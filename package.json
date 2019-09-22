@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "node templates example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlandobuzana/Burguer-Handlebars.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Orlando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlandobuzana/Burguer-Handlebars/issues"
+  },
+  "homepage": "https://github.com/orlandobuzana/Burguer-Handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.2.1",
+    "mysql": "^2.17.1",
+    "orm": "^5.0.4"
+  }
+}
