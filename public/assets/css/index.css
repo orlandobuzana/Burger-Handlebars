@@ -1,0 +1,44 @@
+
+.jumbotron {
+    background-image: url("../img/burger_header.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px 500px;
+    background-position: right;
+    background-color: #ebeaaf;
+    color: #0e0d0d;
+    margin-top: 3%;
+  }
+  #newburger {
+    color: #5c5c5c;
+    width: 100%;
+  }
+  #leftside {
+    background-color: #663939;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+  }
+  #rightside {
+    background-color: #3f3cda;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+  }
+  
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0;
+    box-sizing: border-box;
+  }
+  
+  #addburger {
+    position: relative;
+    top:5px;
+    left: 10px;
+  }
+  
+  .container {
+    width: 70%;
+  }
+  
